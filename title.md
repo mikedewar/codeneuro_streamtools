@@ -4,10 +4,15 @@
 
 # STREAMTOOLS
 
-  New York Times
-  R&D Lab
+	New York Times
+	R&D Lab
 
-# MIKE DEWAR
+# source
+ - github.com/nytlabs/streamtools
+ - github.com/mikedewar/codeneuro_streamtools
+
+
+# mike dewar
  - @mikedewar
  - michael.dewar@nytimes.com
 
