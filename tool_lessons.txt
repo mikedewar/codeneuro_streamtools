@@ -1,0 +1,3 @@
+ - flexible and quick
+ - expose state 
+ - easy integration
