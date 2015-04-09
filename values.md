@@ -3,7 +3,7 @@
 
 Working with live data:
 * ties you closely to the sensor
-* affords exploration of feedback loops
+* enocurages tight feedback loops
 
 
 
